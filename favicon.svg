@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#ff4d08"/>
+  <g fill="#ffffff">
+    <!-- roof -->
+    <path d="M32 9c-1 0-2 .7-2 1.6 -7 5.4 -13 11 -16.6 15.4 -1.6 2 .2 3.6 2.4 3.6h32.4c2.2 0 4-1.6 2.4-3.6C46.9 21.6 41 16 34 10.6 34 9.7 33 9 32 9Z"/>
+    <!-- body -->
+    <path d="M16 32h32l-1.8 20.4c-.1 1.5-1.4 2.6-2.9 2.6H20.7c-1.5 0-2.8-1.1-2.9-2.6Z"/>
+  </g>
+  <!-- cutlery (orange, inside the white house) -->
+  <g stroke="#ff4d08" stroke-width="2.6" stroke-linecap="round" fill="none">
+    <path d="M27 36 41 50"/>
+    <path d="M41 36 27 50"/>
+  </g>
+  <g fill="#ff4d08">
+    <circle cx="27" cy="37" r="3"/>
+    <rect x="39.4" y="34.4" width="2.4" height="6" rx="1.2"/>
+    <rect x="41.6" y="34.4" width="2.4" height="6" rx="1.2"/>
+  </g>
+</svg>
